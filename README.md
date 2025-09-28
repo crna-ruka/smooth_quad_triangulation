@@ -2,8 +2,8 @@
 
 This is a Blender add-on for triangulating quad faces to create smoother geometry.
 
-<img src="https://github.com/user-attachments/assets/7a7b61e3-cedf-4c18-a0ea-001a8910ddd7" alt="Example: before and after" width="50%" />
-<img src="https://github.com/user-attachments/assets/7132acde-fac6-4b78-be60-7418b43c060d" alt="Example: topology" />
+<img src="https://github.com/user-attachments/assets/7ed8984d-dae6-4959-a02f-2c058129eaa3" alt="Example: before and after" width="50%" />
+<img src="https://github.com/user-attachments/assets/fc20e828-a896-48e5-9d20-806c031deffe" alt="Example: topology" />
 
 ## Requirements
 
